@@ -72,7 +72,7 @@ cv2.waitKey(0)
 <pre>
 The most important tuning point lies in the size of a picture.
 The following Python program can be used for resizing the picture (p.jpg: 4032x3024).
-p.jpg was taken by a smartphone. resize.py is to generate the resized p.png file.
+p.jpg was taken by a smartphone. resize.py is to generate the resized p.png file from p.jpg.
 $ python resize.py p.jpg
 </pre>
 
