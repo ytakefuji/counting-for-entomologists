@@ -44,7 +44,8 @@ for installing the necessary libraries:
 <img src='result1.png' height=246 width=1031>
 <img src='result2.png' height=380 width=366>
 <pre>
-   $ python pillbug_count.py flies.png
+Another example uses flies.png.
+$ python pillbug_count.py flies.png
 </pre>
 <img src='flies.png' height=200 width=300><img src='gray.png' height=200 width=300>
 <img src='blur.png' height=200 width=300><img src='edges.png' height=200 width=300>
