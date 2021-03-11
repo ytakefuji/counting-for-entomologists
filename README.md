@@ -9,6 +9,14 @@ Canny edge detection is used for creating blobs and Gaussian Blur function for e
 Without machine learning, the Python program (pillbug_coun.py) can count the number of objects in a picture.
 The conventional machine learning needs to collect and annotate a variety of images which is 
 a time-consuming task.
+Since I am one of pioneers of neural computing, I know better than anyone that collecting and annoteting images is wasting our time.
+</pre>
+<a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing in 1992</a>
+<p>
+A near-optimum parallel planarization algorithm, (Sept. 15 1989)
+<a href="http://science.sciencemag.org/content/245/4923/1221">Science, pp.1221-1223</a>
+<p>
+<pre>
 The target objects in a picture for counting must be separated or isolated. Overlapped objects 
 can be counted as one object.
 
