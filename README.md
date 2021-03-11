@@ -70,13 +70,28 @@ cv2.waitKey(0)
 
 # Resizing a picture
 <pre>
-The most important tuning point lies in the size of a picture.
+The most important tuning point lies in the size of a picture containing the target objects.
 The following Python program can be used for resizing the picture (p.jpg: 4032x3024).
+This program is tuned for a smartphone.
 resize.py can convert p.jpg: 4032x3024 to p.png: 550 x 540.
-p.jpg was taken by a smartphone. resize.py is to generate the resized p.png file from p.jpg.
+p.jpg was taken by my smartphone. resize.py is to generate the resized p.png file from p.jpg.
 $ python resize.py p.jpg
 </pre>
+resize.py can be changed by modifying integer 756 in img = img.resize((756,int(756*h/w)), Image.ANTIALIAS).
+<pre>
+from PIL import Image,ImageEnhance as ie
+import sys
 
+img = Image.open(sys.argv[1])
+w,h=img.size
+img=img.rotate(270,expand=False)
+img = img.resize((756,int(756*h/w)), Image.ANTIALIAS)
+img=ie.Brightness(img)
+eimg=img.enhance(1.9)
+eimg=eimg.crop((100,10,650,550))
+eimg.save("p.png") 
+
+</pre>
 # Tune Canny coefficient
 <pre>
 You should tune Canny coefficient instead of "75". 
