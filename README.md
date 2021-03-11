@@ -1,4 +1,4 @@
-# counting the number of dead bugs for entomologists
+# Counting the number of dead bugs for entomologists
 <pre>
 Counting the number of dead bugs or insect corpses on a plane is a very time-consuming task.
 This repository shows how to use a Python program (pillbug_count.py) for novice users to automatically 
@@ -56,7 +56,7 @@ print("%i blobs" % len(cnts))
 cv2.waitKey(0)
 </pre>
 
-# resizing a picture
+# Resizing a picture
 <pre>
 The most important tuning point lies in the size of a picture.
 The following Python program can be used for resizing the picture (p.jpg: 4032x3024).
