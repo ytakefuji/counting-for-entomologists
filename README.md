@@ -1,4 +1,4 @@
-# counting-for-entomology
+# counting the number of dead bugs for-entomologists
 <pre>
 Counting the number of dead bugs or insect corpses on a plane is a very time-consuming task.
 This repository shows how to use a Python program (pillbug_count.py) to automatically 
