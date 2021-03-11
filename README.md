@@ -18,8 +18,8 @@ annotating images is wasting our time.
 <p>
 <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities in 1992</a>
 <pre>
-The target objects in a picture for counting must be separated or isolated. Overlapped objects 
-can be counted as one object.
+The target objects in a picture for counting must be separated or isolated. 
+Overlapped objects can be counted as one object.
 
 This repository shows how to use a Python program (pillbug_count.py) 
 for novice users to automatically calculate the number of dead bugs or 
