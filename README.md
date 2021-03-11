@@ -18,6 +18,8 @@ In order to run pillbug_count.py, you should see the following repository for in
    $ python pillbug_count.py flies.png
 </pre>
 
+You should resize an original picture for counting the number of dead bugs. Or you should tune the Canny coefficient.
+
 # Tuning parameters for counting in general
 pillbug_count.py is shown as follows:
 <pre>
