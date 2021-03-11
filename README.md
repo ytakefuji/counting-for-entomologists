@@ -23,7 +23,7 @@ for installing the necessary libraries:
    $ python pillbug_count.py pillbug.png
 </pre>
 <img src='result1.png' height=246 width=1031>
-<img src='result2.png' height=366 width=600>
+<img src='result2.png' height=600 width=366>
 <pre>
    $ python pillbug_count.py flies.png
 </pre>
