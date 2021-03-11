@@ -17,6 +17,7 @@ annotating images is wasting our time.
 A near-optimum parallel planarization algorithm, (Sept. 15 1989)
 <a href="http://science.sciencemag.org/content/245/4923/1221">Science, pp.1221-1223</a>
 <p>
+<a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities</a>
 <pre>
 The target objects in a picture for counting must be separated or isolated. Overlapped objects 
 can be counted as one object.
