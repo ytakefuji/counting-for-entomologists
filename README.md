@@ -52,14 +52,17 @@ cv2.imwrite("r.png",img)
 print("%i blobs" % len(cnts))
 cv2.waitKey(0)
 </pre>
+
 # resizing a picture
 <pre>
 The most important tuning point lies in the size of a picture.
-The following Python program can be used for resizing the picture.
-$ python resize.py xxx.png
+The following Python program can be used for resizing the picture (p.jpg: 4032x3024).
+p.jpg was taken by a smartphone. resize.py is to generate the resized p.png file.
+$ python resize.py p.jpg
 </pre>
+
 # Canny coeff
 <pre>
-You should change Canny coefficient instead of "75".
+You should change Canny coefficient instead of "75". 
 outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
