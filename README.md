@@ -94,6 +94,6 @@ eimg.save("p.png")
 </pre>
 # Tune Canny coefficient
 <pre>
-You should tune Canny coefficient instead of "75". 
+You should tune and change Canny coefficient instead of "75". 
 outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
