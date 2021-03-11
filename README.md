@@ -7,11 +7,11 @@ In order to run pillbug_count.py, you should see the following repository for in
 <a href="https://github.com/ytakefuji/python-novice"> How to install libraries</a>
 
 1. To install a Python environment on your operating system (Windows, Mac, Linux), 
-   download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7:
+   download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7 from the following site:
    https://docs.conda.io/en/latest/miniconda.html
-2. Double-click Miniconda3 .exe file or run the following terminal command:
+2. Double-click Miniconda3 .exe file or run the following bash command:
    $ bash Miniconda3XXX.sh
-3. You need to install opencv libray, type the following pip command:
+3. You need to install opencv libray, type the following pip command for installation:
    $ pip install opencv-python
 4. To run pillbug_count.py, run the following command for testing:
    $ python pillbug_count.py pillbug.png
