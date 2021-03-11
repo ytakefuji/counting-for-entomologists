@@ -14,8 +14,7 @@ annotating images is wasting our time.
 </pre>
 <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing in 1992</a>
 <p>
-A near-optimum parallel planarization algorithm, (Sept. 15 1989)
-<a href="http://science.sciencemag.org/content/245/4923/1221">Science, pp.1221-1223</a>
+<a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 in 1989</a>
 <p>
 <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities in 1992</a>
 <pre>
