@@ -5,6 +5,7 @@ time-consuming task.
 The proposed approach is based on BLOB. The term "BLOB" stands for "Binary Large Object".
 Without machine learning, the Python program (pillbug_coun.py) can count the number of objects in a picture.
 The conventional machine learning needs to collect and annotate a variety of images which is a time-consuming task.
+The target objects in a picture for counting must be separated or isolated. Overlapped objects can be counted as one object.
 
 This repository shows how to use a Python program (pillbug_count.py) 
 for novice users to automatically calculate the number of dead bugs or 
