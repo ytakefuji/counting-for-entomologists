@@ -1,14 +1,19 @@
 # Counting the number of dead bugs for entomologists
 <pre>
-Counting the number of dead bugs or insect corpses on a plane is a very time-consuming task.
-This repository shows how to use a Python program (pillbug_count.py) for novice users to automatically 
-calculate the number of dead bugs or the number of insect corpses on a plane for entomologists.
+Counting the number of dead bugs or insect corpses on a plane is a very 
+time-consuming task.
+This repository shows how to use a Python program (pillbug_count.py) 
+for novice users to automatically calculate the number of dead bugs or 
+the number of insect corpses on a plane for entomologists.
 
-In order to run pillbug_count.py, you should see the following repository for installing the necessary libraries:
+In order to run pillbug_count.py, you should see the following repository 
+for installing the necessary libraries:
 <a href="https://github.com/ytakefuji/python-novice"> How to install libraries</a>
 
-1. To install an executable Python environment on your operating system (Windows, Mac, Linux), 
-   download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7 from the following site:
+1. To install an executable Python environment on your operating system 
+   (Windows, Mac, Linux), 
+   download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7 
+   from the following site:
    https://docs.conda.io/en/latest/miniconda.html
 2. Double-click Miniconda3 .exe file or run the following bash command on your terminal:
    $ bash Miniconda3XXX.sh
@@ -19,7 +24,8 @@ In order to run pillbug_count.py, you should see the following repository for in
    $ python pillbug_count.py flies.png
 </pre>
 
-You should resize an original picture for counting the number of dead bugs. Or/and you should tune the Canny coefficient.
+You should resize an original picture for counting the number of dead bugs. 
+Or you should tune the Canny coefficient.
 
 # Tuning parameters for counting in general
 pillbug_count.py is shown as follows:
