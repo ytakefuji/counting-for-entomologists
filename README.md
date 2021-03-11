@@ -4,7 +4,7 @@ Counting the number of dead bugs or insect corpses on a plane is a very time-con
 This repository shows how to use a Python program (pillbug_count.py) to automatically 
 calculate the number of dead insects or the number of insect corpses on a plane for entomologists.
 In order to run pillbug_count.py, you should see the following repository for installing the necessary libraries:
-https://github.com/ytakefuji/python-novice
+<a href="https://github.com/ytakefuji/python-novice"> How to install libraries</a>
 
 1. To install a Python environment on your operating system (Windows, Mac, Linux), 
    download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7:
