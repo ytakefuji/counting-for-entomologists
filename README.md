@@ -11,7 +11,7 @@ Canny edge detection is used for creating blobs and Gaussian Blur function
 for eliminating noises.
 
 Without machine learning, the Python program (pillbug_count.py) can count 
-the number of objects in a picture.
+the number of objects in a picture with a uniform colored background.
 The conventional machine learning needs to collect and annotate a variety 
 of images which is a time-consuming task.
 Since I am one of pioneers of neural computing, I know better than anyone 
