@@ -47,7 +47,7 @@ for installing the necessary libraries:
 3. You need to install opencv libray, 
    type the following pip command for installation:
    $ pip install opencv-python
-4. To run pillbug_count.py, run the following command for testing:
+4. To run pillbug_count.py, type the following command for testing:
    $ python pillbug_count.py pillbug.png
 </pre>
 <img src='result1.png' height=246 width=1031>
