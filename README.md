@@ -26,7 +26,7 @@ The target objects in a picture for counting must be separated or isolated.
 Overlapped objects can be counted as one object.
 
 This repository shows how to use a Python program (pillbug_count.py) 
-for novice users to automatically calculate the number of dead bugs or 
+for novice users to automatically count the number of dead bugs or 
 the number of insect corpses on a plane for entomologists.
 
 In order to run pillbug_count.py, you should see the following repository 
