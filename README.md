@@ -54,9 +54,9 @@ for installing the necessary libraries:
 colored image               gray-scaled image              blurred image             contours (blobs)
 </pre>
 <img src='result2.png' height=380 width=366>
-53 objects (blobs) are found.
+Result: 53 objects (blobs) are found in pillbug.png file.
 <pre>
-Use flies.png for testing.
+Use flies.png for further testing.
 $ python pillbug_count.py flies.png
 </pre>
 <img src='flies.png' height=200 width=300><img src='gray.png' height=200 width=300>
