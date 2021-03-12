@@ -1,16 +1,20 @@
 # Counting the number of dead bugs for entomologists
 <pre>
-Counting the number of dead bugs or insect corpses on a plane is a very time-consuming task. 
-The proposed approach is based on BLOB. The term "BLOB" stands for "Binary Large Object".
-The proposed algorithm is based on the state-of-the-art Canny edge detection and Gaussian Blur function 
-using OpenCV in Python.
-Canny edge detection is used for creating blobs and Gaussian Blur function for eliminating noises.
+Counting the number of dead bugs or insect corpses on a plane is a very 
+time-consuming task. 
+The proposed approach is based on BLOB. The term "BLOB" stands for 
+"Binary Large Object".
+The proposed algorithm is based on the state-of-the-art Canny edge detection
+and Gaussian Blur function using OpenCV in Python.
+Canny edge detection is used for creating blobs and Gaussian Blur function 
+for eliminating noises.
 
-Without machine learning, the Python program (pillbug_count.py) can count the number of objects in a picture.
-The conventional machine learning needs to collect and annotate a variety of images which is 
-a time-consuming task.
-Since I am one of pioneers of neural computing, I know better than anyone that collecting and 
-annotating images is wasting our time.
+Without machine learning, the Python program (pillbug_count.py) can count 
+the number of objects in a picture.
+The conventional machine learning needs to collect and annotate a variety 
+of images which is a time-consuming task.
+Since I am one of pioneers of neural computing, I know better than anyone 
+that collecting and annotating images is wasting our time.
 </pre>
 <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing in 1992</a>
 <p>
