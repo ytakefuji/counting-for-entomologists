@@ -50,9 +50,11 @@ for installing the necessary libraries:
    $ python pillbug_count.py pillbug.png
 </pre>
 <img src='result1.png' height=246 width=1031>
-colored image      gray-scaled image     blurred image     contours (blobs)
+<pre>
+colored image       gray-scaled image      blurred image       contours (blobs)
+</pre>
 <img src='result2.png' height=380 width=366>
-53 objects are found.
+53 objects (blobs) are found.
 <pre>
 Use flies.png for testing.
 $ python pillbug_count.py flies.png
