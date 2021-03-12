@@ -38,8 +38,8 @@ for installing the necessary libraries:
    download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7 
    from the following site:
    https://docs.conda.io/en/latest/miniconda.html
-2. Double-click Miniconda3 .exe file or run the following bash command on y
-   our terminal:
+2. Double-click Miniconda3 .exe file or run the following bash command on
+   your terminal:
    $ bash Miniconda3XXX.sh
 3. You need to install opencv libray, type the following pip command 
    for installation:
