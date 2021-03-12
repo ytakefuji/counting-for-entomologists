@@ -51,7 +51,7 @@ for installing the necessary libraries:
 </pre>
 <img src='result1.png' height=246 width=1031>
 <pre>
-colored image         gray-scaled image         blurred image        contours (blobs)
+colored image      gray-scaled image       blurred image     contours (blobs)
 </pre>
 <img src='result2.png' height=380 width=366>
 Result: 53 objects (blobs) are found in pillbug.png file.
