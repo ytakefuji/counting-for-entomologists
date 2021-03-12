@@ -96,7 +96,7 @@ print("%i blobs" % len(cnts))
 cv2.waitKey(0)
 </pre>
 
-# Resizing a picture
+# How to resize a picture
 <pre>
 The most important tuning point lies in the size of a picture containing the target objects.
 The following Python program can be used for resizing the picture (p.jpg: 4032x3024).
@@ -120,7 +120,7 @@ eimg=eimg.crop((100,10,650,550))
 eimg.save("p.png") 
 
 </pre>
-# Tune Canny coefficient
+# How to tune Canny coefficient
 <pre>
 You should tune and change Canny coefficient instead of "75". 
 outline = cv2.Canny(blurred, 0, 75*coeff)
