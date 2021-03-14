@@ -1,5 +1,5 @@
 # Counting the number of dead bugs for entomologists
-<style>p{color:Green;},</style>
+<style>H1{color:Orange;},</style>
 hello
 <style>p{color:Black;},</style>
 <pre>
