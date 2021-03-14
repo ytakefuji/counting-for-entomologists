@@ -40,7 +40,9 @@ for installing the necessary libraries:
    (Windows, Mac, Linux), 
    download a Miniconda3 .sh file or .exe file for Python3.8 or Python3.7 
    from the following site:
-   https://docs.conda.io/en/latest/miniconda.html
+</pre>
+<a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a>
+<pre>
 2. Double-click Miniconda3 .exe file or run the following bash command on
    your terminal:
    $ bash Miniconda3XXX.sh
