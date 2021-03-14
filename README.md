@@ -1,7 +1,7 @@
 # Counting the number of dead bugs for entomologists
 
 ```diff
- hello
++ hello
 ```
 <pre>
 This site introduces a new tool for entomologists.
