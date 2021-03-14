@@ -1,8 +1,9 @@
 # Counting the number of dead bugs for entomologists
 
-<div class="text-red mb-2">
-text-red on white
-</div>
+.bg-red-light
+#ffdce0, $bg-red-light
+hello
+
 <pre>
 This site introduces a new tool for entomologists.
 
