@@ -132,9 +132,10 @@ img = Image.open(sys.argv[1])
 w,h=img.size
 img=img.rotate(270,expand=False)
 </pre>
-<span color="green">
+```diff
++
 img = img.resize((756,int(756*h/w)), Image.ANTIALIAS)
-</span>
+```
 <pre>
 img=ie.Brightness(img)
 eimg=img.enhance(1.9)
