@@ -1,5 +1,6 @@
 # Counting the number of dead bugs for entomologists
 
+<a style="color:#ff0000">hello</a>
 <pre>
 This site introduces a new tool for entomologists.
 
