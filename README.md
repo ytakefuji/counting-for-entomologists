@@ -1,5 +1,8 @@
 # Counting the number of dead bugs for entomologists
 
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
 <pre>
 This site introduces a new tool for entomologists.
 
