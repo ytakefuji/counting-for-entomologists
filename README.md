@@ -1,7 +1,6 @@
 # Counting the number of dead bugs for entomologists
 
 .bg-red-light
-#ffdce0, $bg-red-light
 hello
 
 <pre>
