@@ -1,7 +1,7 @@
 # Counting the number of dead bugs for entomologists
 
 <pre>
-This site is for entomologists.
+This site introduces a tool for entomologists.
 
 Counting the number of dead bugs or insect corpses on a plane is a very 
 time-consuming task. 
