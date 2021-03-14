@@ -16,9 +16,9 @@ Without machine learning, the Python program (pillbug_count.py) can count
 the number of objects in a picture with a uniform colored background.
 The conventional machine learning needs to collect and annotate a variety 
 of images which is a time-consuming task.
-Since I am one of pioneers of neural computing, 
-I know better than anyone that collecting images and annotating them is 
-tedious and a waste of time.
+
+Since I am one of pioneers of neural computing, I know better than anyone 
+that collecting images and annotating them is tedious and a waste of time.
 </pre>
 <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing in 1992</a>
 <p>
