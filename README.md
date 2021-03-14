@@ -1,6 +1,6 @@
 # Counting the number of dead bugs for entomologists
 
-<div class="text-red">
+<div class="text-green">
 hello
 </div>
 <pre>
