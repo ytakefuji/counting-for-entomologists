@@ -34,7 +34,7 @@ the number of insect corpses on a plane for entomologists.
 
 In order to run pillbug_count.py, you should see the following repository 
 for installing the necessary libraries:
-<a href="https://github.com/ytakefuji/python-novice"> How to install and use libraries in Python</a>
+<a href="https://github.com/ytakefuji/python-novice"> How to install and use libraries in Python for novice users</a>
 
 1. To install an executable Python environment on your operating system 
    (Windows, Mac, Linux), 
