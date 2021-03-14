@@ -112,7 +112,7 @@ $ python resize.py p.jpg
 </pre>
 resize.py can be changed by modifying integer 756 in img = img.resize((756,int(756*h/w)), Image.ANTIALIAS).
 
-resize.py can rotate, resize, change brightness, image-enhance an image, and save the result in the file.
+resize.py can rotate, resize, change brightness, image-enhance an image, and save the result in p.png file.
 <pre>
 from PIL import Image,ImageEnhance as ie
 import sys
