@@ -1,6 +1,6 @@
 # Counting the number of dead bugs for entomologists
 
-<div class="text-white bg-blue mb-2">
+<div class="text-red bg-black mb-2">
   .text-white on .bg-blue
 </div>
 <pre>
