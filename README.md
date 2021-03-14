@@ -1,8 +1,5 @@
 # Counting the number of dead bugs for entomologists
 
-```diff
-+ hello
-```
 <pre>
 This site introduces a new tool for entomologists.
 
@@ -134,7 +131,10 @@ import sys
 img = Image.open(sys.argv[1])
 w,h=img.size
 img=img.rotate(270,expand=False)
+```diff
++
 img = img.resize((756,int(756*h/w)), Image.ANTIALIAS)
+```
 img=ie.Brightness(img)
 eimg=img.enhance(1.9)
 eimg=eimg.crop((100,10,650,550))
