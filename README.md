@@ -5,10 +5,13 @@ This site is for entomologists.
 
 Counting the number of dead bugs or insect corpses on a plane is a very 
 time-consuming task. 
+
 The proposed approach is based on BLOB. The term "BLOB" stands for 
 "Binary Large OBject".
+
 The proposed algorithm is based on the state-of-the-art Canny edge detection
 and Gaussian Blur function using OpenCV library in Python.
+
 Canny edge detection is used for creating blobs and Gaussian Blur function 
 for eliminating noises.
 
