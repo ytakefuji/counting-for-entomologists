@@ -2,6 +2,7 @@
 
 <pre>
 This site is for entomologists.
+
 Counting the number of dead bugs or insect corpses on a plane is a very 
 time-consuming task. 
 The proposed approach is based on BLOB. The term "BLOB" stands for 
