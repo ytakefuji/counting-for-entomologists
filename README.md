@@ -1,7 +1,7 @@
 # Counting the number of dead bugs for entomologists
 
 <pre>
-This repository introduces a new tool for entomologists.
+This repository introduces a new tool on counting for entomologists.
 
 Counting the number of dead bugs or insect corpses on a plane is a very 
 time-consuming task. 
