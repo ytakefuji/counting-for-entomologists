@@ -86,7 +86,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 blurred = cv2.GaussianBlur(gray, (5,5), 0)
 blurred = cv2.GaussianBlur(blurred, (7,7), 0)
 
-cv2.imshow("grey scale", gray)
+cv2.imshow("gray scale", gray)
 cv2.imwrite("gray.png", gray)
 cv2.imshow("blurred", blurred)
 cv2.imwrite("blur.png", blurred)
