@@ -146,4 +146,3 @@ outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
 
 # Enjoy pillbug_count.py!!!
-
