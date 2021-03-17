@@ -3,8 +3,8 @@
 <pre>
 This repository introduces a new tool on object counting for entomologists.
 
-Counting the number of dead bugs or insect corpses on a plane is tedius and a very 
-time-consuming task. 
+Counting the number of dead bugs or insect corpses on a plane is tedius 
+and a very time-consuming task. 
 
 The proposed approach is based on BLOB. The term "BLOB" stands for 
 "Binary Large OBject".
