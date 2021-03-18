@@ -30,6 +30,8 @@ First book for neural optimization in 1992: <a href="https://link.springer.com/b
 First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 in 1989</a>
 <p>
 Deep vs shallow: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities in 1992</a>
+<p>
+First image processing in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images</a>
    
 # How to run pillbug_count.py
 <pre>
