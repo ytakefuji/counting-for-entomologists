@@ -145,4 +145,5 @@ eimg.save("p.png")
 You should tune and change Canny coefficient instead of "75". 
 outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
-# Enjoy pillbug_count.py!!!
+
+# Enjoy a new tool for entomologists.
