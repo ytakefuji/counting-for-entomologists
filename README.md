@@ -32,7 +32,9 @@ First paper published in Science in 1989: <a href="http://science.sciencemag.org
 Deep vs shallow: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities in 1992</a>
 <p>
 First image processing in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images</a>
-   
+<p>
+First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge</a>
+ 
 # How to run pillbug_count.py
 <pre>
 The target objects in a picture for counting must be separated or isolated. 
