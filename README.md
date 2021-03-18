@@ -146,4 +146,4 @@ You should tune and change Canny coefficient instead of "75".
 outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
 
-# Enjoy a new tool for entomologists.
+# Enjoy a new tool for entomologists!
