@@ -34,6 +34,8 @@ Deep vs shallow published in IEEE COMPUTER in 1992: <a href="https://ieeexplore.
 First image processing in IEEE medical imaging in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images (222 cited)</a>
 <p>
 First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge (223 cited)</a>
+<p>
+First paper on channel assignment problems published in IEEE Trans. on Vehicular technology in 1992:<a href="https://ieeexplore.ieee.org/abstract/document/182594/"> A neural network parallel algorithm for channel assignment problems in cellular radio networks (344 cited)</a>
  
 # How to run pillbug_count.py
 <pre>
