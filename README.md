@@ -76,12 +76,12 @@ $ python pillbug_count.py flies.png
 <img src='blur.png' height=200 width=300><img src='edges.png' height=200 width=300>
 <img src='r.png' height=200 width=300>
 
+<font size="+10">
 <b>
-
 You should resize an original picture for counting the number of dead bugs. 
 Or you should tune the Canny coefficient.
-
 </b>
+</font>
 
 # How to tune parameters for counting in general
 
