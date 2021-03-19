@@ -79,7 +79,9 @@ You should resize an original picture for counting the number of dead bugs.
 Or you should tune the Canny coefficient.
 
 # How to tune parameters for counting in general
-pillbug_count.py is shown as follows:
+You should resize a picture containing target objects and/or modify Canny coefficient.
+
+pillbug_count.py is shown:
 <pre>
 import cv2,sys
 if len(sys.argv)<2: 
