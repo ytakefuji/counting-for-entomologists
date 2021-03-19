@@ -78,8 +78,7 @@ $ python pillbug_count.py flies.png
 
 
 
-# You should resize an original picture for counting the number of dead bugs. 
-# Or you should tune the Canny coefficient.
+# You should resize an original picture for counting the number of dead bugs. And/or you should tune the Canny coefficient.
 
 
 # How to tune parameters for counting in general
