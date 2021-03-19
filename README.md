@@ -24,10 +24,11 @@ of images which is a time-consuming task.
 
 Since I am one of pioneers of neural computing, I know better than anyone 
 that collecting images and annotating them is tedious and a waste of time.
+The citation number of the following publications is based on Google Scholar:
 </pre>
 First book for neural optimization published in 1992: <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing (316 cited)</a>
 <p>
-First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 (124 cited)(</a>
+First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 (124 cited)</a>
 <p>
 Deep vs shallow published in IEEE COMPUTER in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities (559 cited)</a>
 <p>
