@@ -25,15 +25,15 @@ of images which is a time-consuming task.
 Since I am one of pioneers of neural computing, I know better than anyone 
 that collecting images and annotating them is tedious and a waste of time.
 </pre>
-First book for neural optimization in 1992: <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing</a>
+First book for neural optimization in 1992: <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing (316 cited)</a>
 <p>
-First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 in 1989</a>
+First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 (124 cited)(</a>
 <p>
-Deep vs shallow in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities in 1992</a>
+Deep vs shallow in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities (559 cited)</a>
 <p>
-First image processing in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images</a>
+First image processing in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images (222 cited)</a>
 <p>
-First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge</a>
+First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge (223 cited)</a>
  
 # How to run pillbug_count.py
 <pre>
