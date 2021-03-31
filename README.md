@@ -1,4 +1,4 @@
-# A tool counting the number of dead bugs for entomologists
+# A new tool counting the number of dead bugs for entomologists
 
 
 <pre>
