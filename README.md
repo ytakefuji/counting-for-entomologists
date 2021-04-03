@@ -34,7 +34,7 @@ First paper on channel assignment problems published in IEEE Trans. on Vehicular
 <p>
 First book for neural optimization published in 1992: <a href="https://link.springer.com/book/10.1007/978-1-4615-3642-0">Neural Network Parallel Computing (316 cited)</a>
 <p>
-First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge (230 cited)</a>
+First Quiz bowl world champion in NIPS 2017: <a href="https://www.aclweb.org/anthology/K16-1025.pdf"> AI defeating human champions using Wikipedia knowledge (23 cited)</a>
 <p>
 First image processing in IEEE medical imaging in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/141645/"> Optimization neural networks for the segmentation of magnetic resonance images (223 cited)</a>
 <p>
