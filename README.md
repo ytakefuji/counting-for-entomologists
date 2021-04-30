@@ -1,4 +1,4 @@
-# A tool counting the number of small insects for entomologists
+# A new tool counting the number of small insects for entomologists
 
 
 <pre>
