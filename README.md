@@ -28,7 +28,7 @@ The citation number of the following publications is based on Google Scholar:
 </pre>
 
 <p>
-Deep vs shallow published in IEEE COMPUTER in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities (572 cited)</a>
+Deep learning vs shallow learning published in IEEE COMPUTER in 1992: <a href="https://ieeexplore.ieee.org/abstract/document/144401/">Functional Link Net Computing: Theory, system Architecture and Functionalities (572 cited)</a>
 <p>
 First paper on channel assignment problems published in IEEE Trans. on Vehicular technology in 1992:<a href="https://ieeexplore.ieee.org/abstract/document/182594/"> A neural network parallel algorithm for channel assignment problems in cellular radio networks (345 cited)</a>
 <p>
