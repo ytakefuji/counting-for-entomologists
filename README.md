@@ -1,5 +1,10 @@
 # A new tool for counting the number of small insects for entomologists
 
+# How to install this package:
+$ pip install bugcount==0.0.1
+
+# How to use this package:
+$ bugcount pillbug.png
 
 <pre>
 This new repository introduces a new tool on object counting for entomologists.
