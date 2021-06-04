@@ -5,7 +5,7 @@ $ pip install bugcount
 
 You need to update the opencv-python library to the latest version:
 
-$ pip install -U opencv-python
+$ pip install -U opencv-python --user
 
 # How to use this bugcount:
 $ bugcount 
