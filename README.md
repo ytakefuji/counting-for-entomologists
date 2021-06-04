@@ -6,6 +6,8 @@ $ pip install bugcount==0.0.1
 # How to use this package:
 $ bugcount pillbug.png
 
+# Detailed program of bugcount.py
+
 <pre>
 This new repository introduces a new tool on object counting for entomologists.
 
@@ -45,8 +47,9 @@ First image processing in IEEE medical imaging in 1992: <a href="https://ieeexpl
 <p>
 First paper published in Science in 1989: <a href="http://science.sciencemag.org/content/245/4923/1221">A near-optimum parallel planarization algorithm, Science, pp.1221-1223 (125 cited)</a>
 <p>
- 
+
 # How to run pillbug_count.py
+ 
 <pre>
 The target objects in a picture for counting must be separated or isolated. 
 Overlapped objects can be counted as one object.
