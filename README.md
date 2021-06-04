@@ -10,6 +10,8 @@ $ pip install -U opencv-python
 # How to use this package:
 $ bugcount pillbug.png
 
+pillbug.png file is a static image containing bugs.
+
 # Detailed program of bugcount.py and pillbug_count.py
 
 <pre>
