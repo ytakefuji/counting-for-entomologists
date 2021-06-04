@@ -7,7 +7,7 @@ You need to update the opencv-python library to the latest version:
 
 $ pip install -U opencv-python
 
-# How to use this package:
+# How to use this bugcount:
 $ bugcount 
 
 enter file name: pillbug.png
