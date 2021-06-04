@@ -8,7 +8,9 @@ opencv-python library should be updated:
 $ pip install -U opencv-python
 
 # How to use this package:
-$ bugcount pillbug.png
+$ bugcount 
+
+enter file name: pillbug.png
 
 pillbug.png file is a static image containing bugs.
 
