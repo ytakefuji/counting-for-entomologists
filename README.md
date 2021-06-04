@@ -6,7 +6,7 @@ $ pip install bugcount==0.0.1
 # How to use this package:
 $ bugcount pillbug.png
 
-# Detailed program of bugcount.py
+# Detailed program of bugcount.py and pillbug_count.py
 
 <pre>
 This new repository introduces a new tool on object counting for entomologists.
