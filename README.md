@@ -2,6 +2,8 @@
 
 # How to install this package:
 $ pip install bugcount
+opencv-python library should be uodated:
+$ pip install -U opencv-python
 
 # How to use this package:
 $ bugcount pillbug.png
