@@ -3,7 +3,7 @@
 # How to install this package:
 $ pip install bugcount
 
-opencv-python library should be updated:
+You need to update the opencv-python library to the latest version:
 
 $ pip install -U opencv-python
 
