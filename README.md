@@ -70,9 +70,9 @@ for installing the necessary libraries:
 4. To run pillbug_count.py, type the following command for testing:
    $ python pillbug_count.py pillbug.png
 </pre>
-<img src='result1.png' height=246 width=1031>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/blob/main/result1.png' height=246 width=1031>
 
-<img src='result2.png' height=380 width=366>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/blob/main/result2.png' height=380 width=366>
 Result: 53 objects (blobs) are found in pillbug.png file.
 <pre>
 Use flies.png for further testing.
