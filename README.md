@@ -94,8 +94,10 @@ Result: 53 objects (blobs) are found in pillbug.png file.
 Use flies.png for further testing.
 $ python pillbug_count.py flies.png
 </pre>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/flies.png' height=200 width=300><img src='gray.png' height=200 width=300>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/blur.png' height=200 width=300><img src='edges.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/flies.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/gray.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/blur.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/edges.png' height=200 width=300>
 <img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r.png' height=200 width=300>
 
 
