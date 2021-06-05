@@ -8,13 +8,20 @@ You need to update the opencv-python library to the latest version:
 $ pip install -U opencv-python --user
 
 # How to use this bugcount:
-In command terminal, type bugcount, then bugcount will ask you the file name.
+In command terminal, type bugcount file-name or bugcount file-name Canny-coeffient
 
-$ bugcount 
+$ bugcount filename
 
-enter file name: pillbug.png
+or
 
-bugcount will ask you the file name.
+$ bugcount pillbug.png
+
+<img src=
+
+$ bugcount pillbug.png 10
+
+$ bugcount pillbug.png 100
+
 
 pillbug.png file is a target image for counting the number of bugs.
 
