@@ -22,11 +22,13 @@ $ bugcount pillbug.png 10
 
 <img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r10.png" width=270 height=275>
 
+$ bugcount filename Canny-coeffient
+
+or 
 
 $ bugcount pillbug.png 100
 
 <img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r100.png" width=270 height=275>
-
 
 pillbug.png file is a target image for counting the number of bugs. 
 
