@@ -23,7 +23,7 @@ pillbug.png file is a target image for counting the number of bugs.
 <pre>
 This new repository introduces a new tool on object counting for entomologists.
 
-Counting the number of dead bugs or insect corpses on a plane is tedius 
+bugcount.py is a pypi version while pillbug_count.py is a modifiable program for researchers. Counting the number of dead bugs or insect corpses on a plane is tedius 
 and a very time-consuming task. 
 
 The proposed approach is based on BLOB. The term "BLOB" stands for 
