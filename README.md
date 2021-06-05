@@ -11,6 +11,7 @@ $ pip install -U opencv-python --user
 $ bugcount 
 
 enter file name: pillbug.png
+bugcount asks you the file name.
 
 pillbug.png file is a static image containing bugs.
 
