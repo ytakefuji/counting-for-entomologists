@@ -29,6 +29,9 @@ def main(f,canny):
  sleep(2)
 #cv2.waitKey(0)
  cv2.waitKeyEx(4000)
+if len(sys.argv)==1: 
+ print('image file is needed!')
+ sys.exit()
 if len(sys.argv)==2: f=sys.argv[1]
 if len(sys.argv)==3: 
  f=sys.argv[1]
