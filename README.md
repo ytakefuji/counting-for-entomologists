@@ -14,7 +14,7 @@ $ bugcount
 
 enter file name: pillbug.png
 
-bugcount asks you the file name.
+bugcount will ask you the file name.
 
 pillbug.png file is a target image for counting the number of bugs.
 
