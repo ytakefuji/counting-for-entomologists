@@ -205,14 +205,15 @@ outline = cv2.Canny(blurred, 0, 75*coeff)
 
 # Cell counting
 <pre>
-In bioprocessing, reagents such as A100 can be used to disaggregate aggregated cell masses and automate cell counting.
+In bioprocessing, reagents such as A100 can be used to disaggregate 
+aggregated cell masses and automate cell counting.
 
 </pre>
 
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/cells.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/cells.png' height=300 width=300>
 
 <pre>
 $ bugcount cells.png
 
 </pre>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r-cells.png' height=200 width=300>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r-cells.png' height=300 width=300>
