@@ -203,4 +203,16 @@ You should tune and change Canny coefficient instead of "75".
 outline = cv2.Canny(blurred, 0, 75*coeff)
 </pre>
 
-# Enjoy a new tool for entomologists!
+# Cell counting
+<pre>
+In bioprocessing, reagents such as A100 can be used to disaggregate aggregated cell masses and automate cell counting.
+
+</pre>
+
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/cells.png' height=200 width=300>
+
+<pre>
+$ bugcount cells.png
+
+</pre>
+<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r-cells.png' height=200 width=300>
