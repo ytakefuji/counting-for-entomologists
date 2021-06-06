@@ -211,6 +211,7 @@ aggregated cell masses and automate cell counting.
 </pre>
 
 <img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/cells.png' height=300 width=300>
+Image source: https://bitesizebio.com/30184/quick-easy-automatic-cell-counting/
 
 <pre>
 $ bugcount cells.png
