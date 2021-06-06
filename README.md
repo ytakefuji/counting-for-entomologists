@@ -1,4 +1,5 @@
-# A new tool for counting the number of small insects for entomologists
+# A new tool for counting the number of small objects.
+bugcount is a useful tool for entomologists to count the number of bugs.
 
 # How to install this package:
 $ pip install bugcount
