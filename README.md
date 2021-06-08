@@ -15,6 +15,10 @@ $ bugcount filename
 
 or
 
+You must download pillbug.png file:
+
+https://github.com/ytakefuji/counting-for-entomologists/raw/main/pillbug.png
+
 $ bugcount pillbug.png
 
 <img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r75.png" width=270 height=275>
